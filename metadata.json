@@ -1,0 +1,8 @@
+{
+  "name": "Remix Cubic Lab A – Khảo Sát Hàm Số Bậc Ba",
+  "description": "Ứng dụng tương tác khảo sát toàn diện hàm số bậc ba y \u003d ax³ + bx² + cx + d dành cho học sinh lớp 12: tính đạo hàm, cực trị, bảng biến thiên, đồ thị Oxy tương tác và giải thích chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
